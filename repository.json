@@ -1,5 +1,5 @@
 {
-  "name": "Zigbee2MQTT AZK 1286",
-  "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt-azk1286",
-  "maintainer": "Koen Kanters <koenkanters94@gmail.com>"
+ "name": "Zigbee2MQTT AZK 1286",
+ "url": "https://github.com/BRSMZigbee2mqtt/hassio-zigbee2mqtt-azk1286",
+ "maintainer": "Koen Kanters <koenkanters94@gmail.com>"
 }
